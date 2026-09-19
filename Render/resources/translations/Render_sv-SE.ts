@@ -71,7 +71,7 @@
       <source>Light representation radius.
 Note: This parameter has no impact on rendering</source>
       <translation>Radie för ljusrepresentation.
-Obs: Den här parametern påverkar inte renderingen.</translation>
+Obs: Den här parametern påverkar inte renderingen</translation>
     </message>
     <message>
       <location filename="../../lights.py" line="197" />

@@ -508,7 +508,7 @@ VARNING: kräver Cycles version &gt;= 4.0.3 (annars kan programmet krascha).</tr
     <message>
       <location filename="../../material.py" line="667" />
       <source>Invalid syntax for attribute '{}' in texture '{}': Expecting 'Texture("&lt;texname&gt;", &lt;texindex&gt;)', got '{}' instead -- Skipping value</source>
-      <translation>Ogiltig syntax för attributet ”{}” i texturen ”{}”: förväntade "Texture(&quot;&lt;texname&gt;&quot;, &lt;texindex&gt;)", fick "{}" i stället – hoppar över värdet</translation>
+      <translation>Ogiltig syntax för attributet ”{}” i texturen ”{}”: förväntade Texture(&quot;&lt;texname&gt;&quot;, &lt;texindex&gt;), fick värdet ”{}” i stället – hoppar över värdet</translation>
     </message>
     <message>
       <location filename="../../material.py" line="680" />

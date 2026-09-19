@@ -508,7 +508,7 @@ VARNING: kräver Cycles version &gt;= 4.0.3 (annars kan programmet krascha).</tr
     <message>
       <location filename="../../material.py" line="667" />
       <source>Invalid syntax for attribute '{}' in texture '{}': Expecting 'Texture("&lt;texname&gt;", &lt;texindex&gt;)', got '{}' instead -- Skipping value</source>
-      <translation>Ogiltig syntax för attributet ”{}” i texturen ”{}”: förväntade ”Texture(&quot;&lt;texname&gt;&quot;, &lt;texindex&gt;)”, fick ”{}” i stället – hoppar över värdet</translation>
+      <translation>Ogiltig syntax för attributet ”{}” i texturen ”{}”: förväntade "Texture(&quot;&lt;texname&gt;&quot;, &lt;texindex&gt;)", fick "{}" i stället – hoppar över värdet</translation>
     </message>
     <message>
       <location filename="../../material.py" line="680" />
@@ -673,7 +673,7 @@ Are you sure you want to continue?</source>
     <message>
       <location filename="../../texture.py" line="220" />
       <source>Leaving less than 1 image in texture is not allowed...</source>
-      <translation>Det är inte tillåtet att lämna färre än en bild i texturen …</translation>
+      <translation>Det är inte tillåtet att lämna färre än 1 bild i texturen …</translation>
     </message>
     <message>
       <location filename="../../texture.py" line="233" />
@@ -928,7 +928,7 @@ Are you sure you want to continue?</source>
     <message>
       <location filename="../ui/RenderSettings.ui" line="749" />
       <source>A prefix that can be added before the renderer executable. This is useful, for example, to add environment variable or run the renderer inside a GPU switcher such as primusrun or optirun on linux</source>
-      <translation>Ett prefix som kan läggas före den körbara filen för renderingsmotorn. Det är användbart exempelvis för att lägga till en miljövariabel eller köra renderingsmotorn inuti en GPU-växlare som primusrun eller optirun i Linux.</translation>
+      <translation>Ett prefix som kan läggas före den körbara filen för renderingsmotorn. Det är användbart exempelvis för att lägga till en miljövariabel eller köra renderingsmotorn inuti en GPU-växlare som primusrun eller optirun i Linux</translation>
     </message>
     <message>
       <location filename="../ui/RenderSettings.ui" line="783" />
@@ -1148,7 +1148,7 @@ Are you sure you want to continue?</source>
       <location filename="../../commands.py" line="94" />
       <location filename="../../commands.py" line="88" />
       <source>{} Project</source>
-      <translation>{}-projekt</translation>
+      <translation>Projekt {}</translation>
     </message>
     <message>
       <location filename="../../commands.py" line="95" />
